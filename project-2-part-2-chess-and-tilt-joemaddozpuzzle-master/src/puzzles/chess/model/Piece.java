@@ -1,5 +1,9 @@
 package puzzles.chess.model;
 
+/*
+ * Contains functions for making character into piece and vice versa
+ * @author Joe Paoli
+ */
 public enum Piece {
     KING,
     QUEEN,
