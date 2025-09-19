@@ -12,7 +12,8 @@ import java.util.LinkedList;
 import java.util.Optional;
 
 /**
- * Starts the automatic ches solver
+ * Starts the automatic chess solver
+ * @author Joe Paoli
  */
 public class Chess {
     public static void main(String[] args) throws Exception {
