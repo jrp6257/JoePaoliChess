@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 /**
  * PTUI for chess board
+ * @author Joe Paoli
  */
 public class ChessPTUI implements Observer<ChessModel, String> {
     private ChessModel model;
