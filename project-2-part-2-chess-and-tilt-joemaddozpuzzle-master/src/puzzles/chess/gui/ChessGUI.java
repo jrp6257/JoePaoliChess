@@ -24,6 +24,7 @@ import java.nio.file.Paths;
 
 /**
  * GUI based on chess board
+ * @author Joe Paoli
  */
 public class ChessGUI extends Application implements Observer<ChessModel, String> {
     /** The resources directory is located directly underneath the gui package */
