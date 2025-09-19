@@ -9,6 +9,7 @@ import java.util.*;
 
 /**
  * A single configuration for a chess board
+ * @author Joe Paoli
  */
 public class ChessConfig implements Configuration {
     private int length;
