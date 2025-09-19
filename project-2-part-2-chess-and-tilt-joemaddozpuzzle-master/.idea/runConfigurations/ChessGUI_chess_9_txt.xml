@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChessGUI chess-9.txt" type="Application" factoryName="Application" editBeforeRun="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="liberica-21 (2)" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.chess.gui.ChessGUI" />
+    <module name="ChessTilt" />
+    <option name="PROGRAM_PARAMETERS" value="data/chess/chess-9.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
