@@ -13,6 +13,7 @@ import java.util.List;
 
 /**
  * A model for the chess GUI and PTUI
+ * @author Joe Paoli
  */
 public class ChessModel {
     /** the collection of observers of this model */
